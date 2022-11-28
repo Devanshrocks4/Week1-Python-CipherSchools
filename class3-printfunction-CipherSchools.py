@@ -1,6 +1,6 @@
-print("jatin katyal")
+print("Devansh Gupta")
 print(1)
-print(1,2,3,"jatin",3.4,"1+j",sep=",")
+print(1,2,3,"devansh",3.4,"1+j",sep=",")
 
 print("hello")
 print("world!")
